@@ -3,10 +3,10 @@
 ### Projeto feito pelos discentes:
 
 **- Carlos Nunes**
-**- Gabriel Borsero**
+**, Gabriel Borsero**
 
 ### Projeto da disciplina de estrutura de dados com alguns algoritmos de ordenação
-### implementados na linguagem python, neste repositorio consta os seguintes algoritmos de ordenação:
+### Implementados na linguagem python, neste repositorio consta os seguintes algoritmos de ordenação:
 
 * bubble sort
 * insertion sort
